@@ -1,3 +1,5 @@
-# GlcCer_GWAS
+# GlcCer_GWAS script
 
-!under construction!
+GBA1 variants and decreased glucocerebrosidase activity are implicated in Parkinson's disease (PD). We investigated the hypothesis that increased levels of glucosylceramide (GlcCer), a main substrate of glucocerebrosidase, are involved in PD pathogenesis. Using multiple genetic methods, we show that ATPase phospholipid transporting 10D (ATP10D), not GBA1, is the main regulator of plasma GlcCer levels, yet it is not involved in PD pathogenesis. Plasma GlcCer levels were associated with PD, but not in a causative manner, and are not predictive of disease status. These results argue against targeting GlcCer in GBA1-PD, and underscore the need to explore alternative mechanisms and biomarkers for PD.
+
+Somerville, E.N., James, A., Beetz, C., Schwieger, R., Barrel, G., Kandaswamy, K.K., Iurascu, M.I., Bauer, P., Ta, M., Iwaki, H., Senkevich, K., Yu, E., Alcalay, R.N. and Gan-Or, Z. (2025), Plasma Glucosylceramide Levels Are Regulated by ATP10D and Are Not Involved in Parkinson's Disease Pathogenesis. Ann Neurol. https://doi.org/10.1002/ana.27219
